@@ -29,4 +29,4 @@ I'm a student of Computer and Software Engineering, currently focused on buildin
 
 - Email: leki.djekic@gmail.com  
 - GitHub:[ https://github.com/Al3k5a24 ]
-
+- Linkedin: [  https://www.linkedin.com/in/aleksadjekic-se/ ]
