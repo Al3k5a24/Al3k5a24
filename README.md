@@ -12,7 +12,7 @@ I'm a student of Computer and Software Engineering, currently focused on buildin
 ## 📂 Current Projects
 
 - **Hospital Management System** - Java-based desktop applications featuring user-friendly interfaces, database integration, CRUD operations, and image display support.
-- **Cafe Management System** - Java-based desktop applications featuring user-friendly interfaces, database integration,, CRUD operations, and image display support.
+- **Cafe Management System** - Java-based desktop applications featuring user-friendly interfaces, database integration, CRUD operations, and image display support.
 
  
 ## 🎯 My Goals
