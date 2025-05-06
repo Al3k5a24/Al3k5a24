@@ -7,7 +7,7 @@ I'm a student of Computer and Software Engineering, currently focused on buildin
 - 💻 Java (working with Spring Boot)
 - 🧰 C# (.NET basics)
 - 🌐 HTML & CSS (basic frontend structure and design)
-- 🔧 Git & GitHub (version control and collaboration)
+- 🔧 Git & GitHub (version control and collaboration)   
 
 ## 💻 Languages & Tools
 
