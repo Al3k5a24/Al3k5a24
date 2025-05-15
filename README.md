@@ -1,5 +1,3 @@
-![snake gif](https://github.com/Al3k5a24/Al3k5a24/blob/output/github-snake-dark.svg)
-
 # 💫 About Me:
 👋 **Hi there!** I'm Aleksa Djekic<br>I'm a student of **Computer and Software Engineering**, currently focused on building my portfolio and developing skills in backend development<br><br>📂 **Current Projects**<br>**Hospital Management System** - Java-based desktop applications featuring user-friendly interfaces, database integration, CRUD operations, and image display support.<br>**Cafe Management System** - Java-based desktop applications featuring user-friendly interfaces, database integration, CRUD operations, and image display support.<br>**Taxi Booking System** -A web-based taxi booking application facilitates users in booking taxis online and provides drivers with tools to manage their rides efficiently.<br><br>🎯 **My Goals**<br>Learn how to build scalable REST APIs<br>Improve integration between frontend and backend<br>Build real-world applications and gain experience through projects
 
@@ -23,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Al3k5a24&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Al3k5a24/Al3k5a24/blob/output/github-snake-dark.svg)
