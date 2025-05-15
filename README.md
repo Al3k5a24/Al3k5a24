@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/XyZ1234.png" alt="Banner" width="100%" />
+<img src="[https://i.imgur.com/XyZ1234.pn](https://github.com/Al3k5a24/Al3k5a24/blob/main/banner.jpg)" alt="Banner" width="100%" />
 
 
 # 💫 About Me:
