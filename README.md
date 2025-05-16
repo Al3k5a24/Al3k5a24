@@ -4,6 +4,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Aleksa Djekic
 I'm a student of Computer and Software Engineering, currently focused on building my portfolio and developing skills in backend development.
+
 I'm passionate about software architecture, clean code practices, and scalable system design. I enjoy working with technologies like Java, Spring Boot, MySQL, and RESTful APIs. I'm also familiar with version control using Git, and I continuously seek to improve my understanding of data structures, algorithms, and system design patterns.
 
 
