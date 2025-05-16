@@ -17,7 +17,7 @@ I'm passionate about software architecture, clean code practices, and scalable s
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,cs,javascript,mysql,java,eclipse,postman,spring,stackoverflow,vscode,react,windows" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,cs,python,mysql,java,eclipse,postman,spring,stackoverflow,vscode,react,windows" />
   </a>
 </p>
 
