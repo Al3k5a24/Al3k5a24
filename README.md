@@ -23,9 +23,20 @@ I'm passionate about software architecture, clean code practices, and scalable s
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Al3k5a24&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Al3k5a24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3k5a24&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Al3k5a24&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+
+  <!-- GitHub Streak -->
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Al3k5a24&theme=dark&hide_border=false" />
+
+  <!-- Language Stats (Circular Chart) -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3k5a24&theme=dark&hide_border=false&layout=compact&langs_count=8&custom_title=Languages&card_type=chart" />
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Al3k5a24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
