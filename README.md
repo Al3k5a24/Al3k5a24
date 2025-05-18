@@ -30,9 +30,6 @@ I'm passionate about software architecture, clean code practices, and scalable s
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Al3k5a24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Al3k5a24&icon=6&color=8)](https://visitcount.itsvg.in)
 
