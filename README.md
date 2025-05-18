@@ -34,7 +34,7 @@ I'm passionate about software architecture, clean code practices, and scalable s
 
   <!-- Language Stats (Circular Chart) -->
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Al3k5a24&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3k5a24&layout=compact&theme=dark&hide_border=false" />
 
 </div>
 
