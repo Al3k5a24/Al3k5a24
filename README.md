@@ -8,7 +8,7 @@
 👋 Hi there! I'm Aleksa Djekic
 I'm a Computer and Software Engineering student from Serbia, currently focused on building my portfolio and growing as a backend developer.
 
-I love exploring how software works under the hood — from clean architecture and scalable systems to writing maintainable, readable code. I'm most comfortable working with Java, Spring Boot, MySQL, and RESTful APIs, and I regularly use Git for version control. Alongside that, I’m always looking to deepen my understanding of data structures, algorithms, and design patterns.
+I love exploring how software works under the hood — from clean architecture and scalable systems to writing maintainable, readable code. I'm most comfortable working with Java, Spring Boot, MySQL, and RESTful APIs. Alongside that, I’m always looking to deepen my understanding of data structures, algorithms, and design patterns.
 
 Beyond tech, I’m someone with wide-ranging interests and a strong curiosity for learning. I enjoy meeting new people, exchanging ideas, and growing through collaboration — whether it's in a team project or just a good conversation with fellow developers.
 
