@@ -26,9 +26,6 @@ Beyond tech, I’m someone with wide-ranging interests and a strong curiosity fo
 # 📊 GitHub Stats:
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Al3k5a24&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-
   <!-- GitHub Streak -->
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Al3k5a24&theme=dark&hide_border=false" />
