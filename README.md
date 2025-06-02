@@ -5,8 +5,7 @@
 
 
 # 💫 About Me:
-👋 Hi there! I'm Aleksa Djekic
-I'm a Computer and Software Engineering student from Serbia, currently focused on building my portfolio and growing as a backend developer.
+👋 Hi there! I'm Aleksa Djekic, a Computer and Software Engineering student from Serbia, currently focused on building my portfolio and growing as a backend developer.
 
 I love exploring how software works under the hood — from clean architecture and scalable systems to writing maintainable, readable code. I'm most comfortable working with Java, Spring Boot, MySQL, and RESTful APIs. Alongside that, I’m always looking to deepen my understanding of data structures, algorithms, and design patterns.
 
