@@ -4,7 +4,7 @@
 
 
 
-# 💫 About Me:
+#  About Me:
 👋 Hi there! I'm Aleksa Djekic, a Computer and Software Engineering student from Serbia, currently focused on building my portfolio and growing as a backend developer.
 
 I love exploring how software works under the hood — from clean architecture and scalable systems to writing maintainable, readable code. I'm currently most comfortable working with Java, Spring Boot, MySQL, and RESTful APIs. Alongside that, I’m always looking to deepen my understanding of data structures and algorithms, design patterns and much more.
@@ -12,10 +12,10 @@ I love exploring how software works under the hood — from clean architecture a
 Beyond tech, I’m someone with wide-ranging interests and a strong curiosity for learning. I enjoy meeting new people, exchanging ideas, and growing through collaboration — whether it's in a team project or just a good conversation.
 
 
-## 🌐 Socials:
+## Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_djekic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksadjekic-se) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leki.djekic@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,cs,python,mysql,java,eclipse,postman,spring,stackoverflow,vscode,react,windows" />
@@ -23,7 +23,7 @@ Beyond tech, I’m someone with wide-ranging interests and a strong curiosity fo
 </p>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
 
   <!-- GitHub Streak -->
@@ -36,7 +36,7 @@ Beyond tech, I’m someone with wide-ranging interests and a strong curiosity fo
 
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Al3k5a24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
