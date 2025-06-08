@@ -3,12 +3,13 @@
 </p>
 
 #  About Me:
-👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia.
+👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia with a strong interest in backend development and system design.
 
 💻 I enjoy building clean, scalable architectures and writing code that’s easy to read, maintain, and grow with.
 
 🧠 In my free time i am always aiming to improve as a developer and as a person and future colleague.
 
+🤝 Beyond technical skills, I value collaboration, continuous learningc new opportunities and challenges that help me grow as a developer.
 
 ## Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_djekic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksadjekic-se) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leki.djekic@gmail.com) 
