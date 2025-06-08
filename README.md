@@ -4,7 +4,9 @@
 
 #  About Me:
 👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia.
+
 💻 I enjoy building clean, scalable architectures and writing code that’s easy to read, maintain, and grow with.
+
 🧠 In my free time i am always aiming to improve as a developer and as a person and future colleague.
 
 
