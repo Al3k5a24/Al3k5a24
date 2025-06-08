@@ -2,14 +2,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="500"/>
 </p>
 
-
-
 #  About Me:
-👋 Hi there! I'm Aleksa Djekic, a Computer and Software Engineering student from Serbia, currently focused on building my portfolio and growing as a backend developer.
-
-I love exploring how software works under the hood — from clean architecture and scalable systems to writing maintainable, readable code. I'm currently most comfortable working with Java, Spring Boot, MySQL, and RESTful APIs. Alongside that, I’m always looking to deepen my understanding of data structures and algorithms, design patterns and much more.
-
-Beyond tech, I’m someone with wide-ranging interests and a strong curiosity for learning. I enjoy meeting new people, exchanging ideas, and growing through collaboration — whether it's in a team project or just a good conversation.
+👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia.
+💻 I enjoy building clean, scalable architectures and writing code that’s easy to read, maintain, and grow with.
+🧠 In my free time i am always aiming to improve as a developer and as a person and future colleague.
 
 
 ## Socials:
