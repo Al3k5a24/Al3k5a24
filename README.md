@@ -9,7 +9,7 @@
 
 🧠 In my free time i am always aiming to improve as a developer, a person and future colleague.
 
-🤝 Beyond technical skills, I value collaboration, continuous learningc new opportunities and challenges that help me grow as a developer.
+🤝 Beyond technical skills, I value collaboration, continuous learning, new opportunities and challenges that help me grow as a developer.
 
 ## Socials:
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_djekic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksadjekic-se) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leki.djekic@gmail.com) 
