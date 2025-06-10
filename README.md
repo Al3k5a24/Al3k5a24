@@ -16,7 +16,7 @@
 # Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,postgres,python,mysql,java,eclipse,postman,spring,vscode,react" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,postgres,python,mysql,java,eclipse,postman,spring,vscode,react,js" />
   </a>
 </p>
 
@@ -24,11 +24,9 @@
 # GitHub Stats:
 <div align="center">
 
-  <!-- GitHub Streak -->
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Al3k5a24&theme=dark&hide_border=false" />
 
-  <!-- Language Stats (Circular Chart) -->
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3k5a24&layout=compact&theme=dark&hide_border=false" />
 
