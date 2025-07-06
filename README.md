@@ -23,7 +23,7 @@
 # Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,postgres,python,mysql,java,postman,spring,js,aws,react,tailwindcss,docker" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,postgres,python,mysql,java,postman,spring,js,aws,react,tailwindcss,docker,langchain" />
   </a>
 </p>
 
