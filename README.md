@@ -3,7 +3,7 @@
 </p>
 
 #  About Me:
-👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia with a love for app development and F1 / MotoGP races.
+👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia who loves app development and F1 / MotoGP races.
 
 💻I am building backend systems in Spring, SQL, with APIs, although I do venture into the frontend world (React,TailwindCSS) from time to time to stay versatile.
 
