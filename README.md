@@ -5,11 +5,9 @@
 #  About Me:
 👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia with a love for app development and F1 / MotoGP races.
 
-💻I am building backend systems in Java, Spring Boot, SQL, and RESTful APIs , although I do venture into the frontend world (React,TailwindCSS) from time to time to stay versatile.
+💻I am building backend systems in Spring, SQL, with APIs, although I do venture into the frontend world (React,TailwindCSS) from time to time to stay versatile.
 
 ♦️I love what I do, and I'm constantly looking for ways to level up—whether that's learning a new framework, a new domain, or debugging at 1 AM (hopefully with coffee).
-
-
 
 ## Socials:
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_djekic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksadjekic-se) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leki.djekic@gmail.com) 
