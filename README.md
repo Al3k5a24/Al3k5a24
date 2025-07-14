@@ -3,9 +3,9 @@
 </p>
 
 #  About Me:
-👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia with a strong interest in backend development and system design.
+👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia with a strong interest in developing apps and watching F1 / MotoGP .
 
-💻I've been building backend systems in Java, Spring Boot, SQL, and RESTful APIs , although I do venture into the frontend world (React,TailwindCSS) from time to time to stay versatile.
+💻I am building backend systems in Java, Spring Boot, SQL, and RESTful APIs , although I do venture into the frontend world (React,TailwindCSS) from time to time to stay versatile.
 
 ♦️I love what I do, and I'm constantly looking for ways to level up—whether that's learning a new framework, a new domain, or debugging at 1 AM (hopefully with coffee).
 
