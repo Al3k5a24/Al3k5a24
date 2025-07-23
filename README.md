@@ -9,9 +9,6 @@
 
 ♦️I love what I do, and I'm constantly looking for ways to level up—whether that's learning a new framework, a new domain, or debugging at 1 AM (hopefully with coffee).
 
-## Socials:
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_djekic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksadjekic-se) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leki.djekic@gmail.com) 
-
 # Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
