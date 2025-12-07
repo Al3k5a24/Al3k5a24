@@ -24,7 +24,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Al3k5a24&theme=dark&hide_border=false" />
 
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3k5a24&layout=compact&theme=dark&hide_border=false" />
 
 </div>
 
