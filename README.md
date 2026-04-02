@@ -16,17 +16,6 @@
   </a>
 </p>
 
-
-# GitHub Stats:
-<div align="center">
-
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Al3k5a24&theme=dark&hide_border=false" />
-
-  <br/>
-
-</div>
-
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Al3k5a24&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
