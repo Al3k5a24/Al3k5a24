@@ -3,16 +3,20 @@
 </p>
 
 #  About Me:
-👋 Hi, I'm Aleksa Djekic, a Computer & Software Engineering student from Serbia who loves and F1 / MotoGP races.
+Computer & Software Engineering student based in Serbia. I like clean code, well-structured systems, and fast machines (F1 / MotoGP).
 
-💻I mainly focus on Backend systems in Spring Boot with APIs, although I do venture into the frontend world (React,TailwindCSS) from time to time to stay versatile.
+### 💻 What I Do
+* **Core Focus:** Building robust backend services & REST APIs with **Java & Spring Boot** (alongside **NestJS / Node.js**).
+* **Databases & Systems:** Working with **PostgreSQL**, standard relational modeling, and running my workflows on **Linux**.
+* **Full-Stack Versatility:** Comfortable stepping into the frontend with **React** & **Tailwind CSS** when the project demands it.
+* **Engineering Mindset:** Always curious about system architecture, software quality, and low-level / hardware details.
 
-♦️I love what I do, and I'm constantly looking for ways to level up—whether that's learning a new framework, a new domain, or debugging at 1 AM (hopefully with coffee).
+---
 
-# Tech Stack:
+### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,python,mysql,java,postman,spring,react,tailwindcss,docker,js,idea,pycharm,linux,mongo" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nestjs,js,postgres,docker,linux,react,tailwind,git,postman,idea" />
   </a>
 </p>
 
