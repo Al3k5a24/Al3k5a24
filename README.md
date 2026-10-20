@@ -16,7 +16,7 @@ Software Engineering student interested in backend architectures, distributed sy
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express ,postgres,docker,linux,bash,react,tailwind,git,postman,idea,webstorm,obsidian,npm,github " />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,postgres,docker,linux,bash,react,tailwind,git,postman,idea,webstorm,obsidian,npm,github " />
   </a>
 </p>
 
