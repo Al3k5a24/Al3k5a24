@@ -3,22 +3,26 @@
 </p>
 
 #  About Me:
-Computer & Software Engineering student based in Serbia. I like clean code, well-structured systems, and fast machines (F1 / MotoGP).
-
-### 💻 What I Do
-* **Core Focus:** Building robust backend services & REST APIs with **Java & Spring Boot** (alongside **NestJS / Node.js**).
-* **Databases & Systems:** Working with **PostgreSQL**, standard relational modeling, and running my workflows on **Linux**.
-* **Full-Stack Versatility:** Comfortable stepping into the frontend with **React** & **Tailwind CSS** when the project demands it.
-* **Engineering Mindset:** Always curious about system architecture, software quality, and low-level / hardware details.
+Software Engineering student interested in backend architectures, distributed systems, and fine-tuned code. F1 & MotoGP enthusiast.
 
 ---
+
+### 💻 Technical Focus
+* **Primary:** Java / Spring Boot for scalable backend services.
+* **Secondary:** NestJS & Node.js for lightweight/event-driven backends.
+* **UI & Client:** React & Tailwind CSS for modern, functional interfaces.
+* **Environment:** Linux-native workflow, PostgreSQL, Dockerized environments.
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nestjs,js,postgres,docker,linux,react,tailwind,git,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express ,postgres,docker,linux,bash,react,tailwind,git,postman,idea,webstorm,obsidian,npm,github " />
   </a>
 </p>
+
+---
+
+*Always building, debugging, and refining.*
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Al3k5a24&icon=6&color=8)](https://visitcount.itsvg.in)
