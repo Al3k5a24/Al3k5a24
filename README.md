@@ -42,12 +42,6 @@ Computer & Software Engineering student based in Serbia. Focused on backend deve
 
 ---
 
-### 📬 Connect with Me
-
-[LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aleksadjekic-se/)) | [Email](mailto:aleksa.b.djekic@gmail.com)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Al3k5a24&icon=6&color=8)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/Al3k5a24/Al3k5a24/blob/output/github-snake-dark.svg)
