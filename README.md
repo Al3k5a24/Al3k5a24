@@ -37,12 +37,14 @@ Computer & Software Engineering student based in Serbia. Focused on backend deve
 </p>
 
 ---
-*Always building, debugging, and refining.*
+
+*Building, debugging, and refining.*
+
 ---
 
 ### 📬 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:aleksa.b.djekic@gmail.com)
+[LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aleksadjekic-se/)) | [Email](mailto:aleksa.b.djekic@gmail.com)
 
 ---
 
