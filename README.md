@@ -3,15 +3,16 @@
 </p>
 
 #  About Me:
-Software Engineering student interested in backend architectures, distributed systems, and fine-tuned code. F1 & MotoGP enthusiast.
+Computer & Software Engineering student based in Serbia. Focused on backend development, relational database design, and building system architectures with a strong engineering foundation.
 
 ---
 
 ### 💻 Technical Focus
-* **Primary:** Java / Spring Boot for scalable backend services.
-* **Secondary:** NestJS & Node.js for lightweight/event-driven backends.
-* **UI & Client:** React & Tailwind CSS for modern, functional interfaces.
-* **Environment:** Linux-native workflow, PostgreSQL, Dockerized environments.
+* **Primary:** Java / Spring Boot 
+* **Secondary:** NestJS & Node.js 
+* **UI & Client:** React & Tailwind CSS
+* **Databases & Tools:** PostgreSQL, Prisma, Docker, Git, Postman
+* **Environment:** Linux 
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
@@ -36,10 +37,15 @@ Software Engineering student interested in backend architectures, distributed sy
 </p>
 
 ---
-
 *Always building, debugging, and refining.*
+---
+
+### 📬 Connect with Me
+
+[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:aleksa.b.djekic@gmail.com)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Al3k5a24&icon=6&color=8)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/Al3k5a24/Al3k5a24/blob/output/github-snake-dark.svg)
